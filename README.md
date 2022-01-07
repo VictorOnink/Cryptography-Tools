@@ -1,7 +1,6 @@
 # Cryptography
 Based on my own interest in cryptography after having read Neil Stephenson's "Cryptonomicon" and reading "The Code Breakers"
-by David Kahn, here I have a bunch of codes that encrypt a number of the ciphers I have read about, as well as some
-attempts at cryptoanalysis in the future.
+by David Kahn, here I have a bunch of codes that encode in python a number of the ciphers I have read about. In future I will probably try out new ciphers, and perhaps make some attempt at writing some cryptoanalysis tools.
 
 ### Some useful links for my own reference
 Quadgram statistics: http://practicalcryptography.com/cryptanalysis/text-characterisation/quadgrams/#a-python-implementation
